@@ -1,0 +1,4 @@
+driver2 = com.mysql.cj.jdbc.Driver
+url=jdbc:mysql://localhost:3306/training
+user=root
+pass=Anirban24@743144
